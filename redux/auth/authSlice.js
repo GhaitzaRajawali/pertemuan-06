@@ -8,7 +8,7 @@ const authSlice = createSlice({
     name: 'auth',
     initialState,
     reducers: {
-        setLogin(state, action){
+        setLogin(state, action) {
             if (action && action.payload && typeof action.payload.isLogin !== 'undefined') {
                 state.isLogin = action.payload.isLogin;
             }
