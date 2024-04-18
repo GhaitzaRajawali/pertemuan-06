@@ -19,3 +19,11 @@ OUTPUT AFTER
 2. Baris 25 dan 30 terdapat method parse(), apa yang terjadi jika kita tidak menggunakan method tersebut?
 Jawab : Jika tidak menggunakan metode parse() pada baris 25 dan 30, maka program akan mengalami kesalahan dalam pemrosesan data.
 
+PRAKTIKUM 3
+OUTPUT
+![Praktikum_3](assets/image/Praktikum_3.1.png)
+![Praktikum_3](assets/image/Praktikum_3.2.png)
+![Praktikum_3](assets/image/Praktikum_3.3.png)
+
+
+
